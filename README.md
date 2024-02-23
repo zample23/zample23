@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="https://github.com/zample23/simple_todo_app/assets/95700098/1604f2fa-5dd3-4ff8-932e-c85c3e2a4654" title="DMV Test Prep">
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/a0205b4f-d850-45ad-846b-a6b9c04ec503" title="AX IT">
 
 
 </p>
