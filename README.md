@@ -8,10 +8,9 @@
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://github.com/zample23/zample23/assets/95700098/47b87be0-87bb-4430-89c5-468711302239" width="930" title="DMV Test Prep">
-<img src="https://github.com/zample23/zample23/assets/95700098/47b87be0-87bb-4430-89c5-468711302239" width="930" title="DMV Test Prep">
-<img src="https://github.com/zample23/zample23/assets/95700098/47b87be0-87bb-4430-89c5-468711302239" width="930" title="DMV Test Prep">
-<img src="https://github.com/zample23/zample23/assets/95700098/47b87be0-87bb-4430-89c5-468711302239" width="930" title="DMV Test Prep">
+
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/1604f2fa-5dd3-4ff8-932e-c85c3e2a4654" title="DMV Test Prep">
+
 
 </p>
 
