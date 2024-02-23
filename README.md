@@ -2,10 +2,8 @@
 
 # [AX IT](https://github.com/zample23/AX_IT.git) 
 
-* AX IT - it's responsive cross-browser landing page made using html/css and javascript;
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
-* Database - PostgresQL. Hosted on AWS.
+* AX IT - it's responsive cross-browser landing page made using html/css and javascript
+* It has 2 forms with data validation, as well as functionality for loading any image onto the page
 
 <p align="center">
 
