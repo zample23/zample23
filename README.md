@@ -8,7 +8,7 @@
 * Database - PostgresQL. Hosted on AWS.
 
 <p align="center">
-<img src="https://github.com/zample23/zample23/assets/95700098/6f522e3e-8bf9-49ed-938f-a000aad053e2" width="930" title="DMV Test Prep">
+<img src="https://github.com/zample23/zample23/assets/95700098/47b87be0-87bb-4430-89c5-468711302239" width="930" title="DMV Test Prep">
 
 </p>
 
