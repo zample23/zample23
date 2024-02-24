@@ -44,6 +44,20 @@
 
 </p>
 
+# [Simple ToDo app](https://zample23.github.io/simple_todo_app/) 
+
+* Simple ToDo app - it's responsive cross-browser landing page made using React library
+* Slider with advertise cases with corresponding information 
+* Controlled form with validation
+
+<a href="https://zample23.github.io/simple_todo_app/" target="_blank">Link on GitHub Pages</a>
+
+<p align="left">
+
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/adbf51e4-c439-4e3d-9bcf-a45ea80b52e2" title="Simple ToDo app" width="700">
+
+</p>
+
 
 # Contact Info:
 
