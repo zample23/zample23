@@ -3,7 +3,8 @@
 # [AX IT](https://github.com/zample23/AX_IT.git) 
 
 * AX IT - it's responsive cross-browser landing page made using html/css and javascript
-* It has 2 forms with data validation, as well as functionality for loading any image onto the page
+* Has 2 forms with data validation
+* Functionality for loading any image onto the page
 
 <a href="https://zample23.github.io/AX_IT/" target="_blank">Link on GitHub Pages</a>
 
@@ -17,7 +18,8 @@
 # [Night Trips](https://github.com/zample23/AX_IT.git) 
 
 * Night Trips - it's responsive cross-browser landing page made using html/css and javascript
-* Slider with photos for each event, changing background of the main page
+* Slider with photos for each event
+* Changing background of the main section
 * Interactive user experience elements
 
 <a href="https://zample23.github.io/Night_Trips/" target="_blank">Link on GitHub Pages</a>
