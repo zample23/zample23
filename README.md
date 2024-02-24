@@ -20,7 +20,7 @@
 * Slider with photos for each event, changing background of the main page
 * Interactive user experience elements
 
-<a href="https://zample23.github.io/AX_IT/" target="_blank">Link on GitHub Pages</a>
+<a href="https://zample23.github.io/Night_Trips/" target="_blank">Link on GitHub Pages</a>
 
 <p align="left">
 
