@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">&nbsp;&nbsp;&nbsp;<a target="_blank" href="mailto:egor33parasiuk@gmail.com"><img src="https://img.shields.io/badge/Email-Yehor%20Parasiuk-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-zample23-aqua?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white">&nbsp;&nbsp;&nbsp;<a target="_blank" href="mailto:egor33parasiuk@gmail.com"><img src="https://img.shields.io/badge/Email-Yehor%20Parasiuk-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yehor-zample-240059191/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-zample23-aqua?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 # [AX IT](https://github.com/zample23/AX_IT.git) 
 
@@ -64,4 +64,4 @@
 # Contact Info:
 
 - Email: egor33parasiuk@gmail.com
-- LinkedIn: [zample23](https://www.linkedin.com/)
+- LinkedIn: [zample23](https://www.linkedin.com/in/yehor-zample-240059191/)
