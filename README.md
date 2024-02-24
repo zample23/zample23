@@ -10,7 +10,7 @@
 
 <p align="left">
 
-<img src="https://github.com/zample23/simple_todo_app/assets/95700098/dcb461ce-0edc-4436-8966-a6c242303116" title="AX IT" width="700">
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/1a00804b-0d5d-4b5b-b033-39ef10b3897e" title="AX IT" width="700">
 
 </p>
 
