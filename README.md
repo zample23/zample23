@@ -5,7 +5,7 @@
 * AX IT - it's responsive cross-browser landing page made using html/css and javascript
 * It has 2 forms with data validation, as well as functionality for loading any image onto the page
 
-<a href="https://zample23.github.io/AX_IT/">Link on GitHub Pages</a>
+<a target="_blank" href="https://zample23.github.io/AX_IT/">Link on GitHub Pages</a>
 
 <p align="left">
 
