@@ -54,7 +54,7 @@
 
 <p align="left">
 
-<img src="https://github.com/zample23/simple_todo_app/assets/95700098/adbf51e4-c439-4e3d-9bcf-a45ea80b52e2" title="Simple ToDo app" width="700">
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/f3d9765d-5565-400b-ae66-8cf301255589" title="Simple ToDo app" width="700">
 
 </p>
 
