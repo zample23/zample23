@@ -26,7 +26,7 @@
 
 <p align="left">
 
-<img src="https://github.com/zample23/simple_todo_app/assets/95700098/fb1b7e3a-3df7-4f21-b252-b5554fcf518a" title="Night Trips" width="700">
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/c0efcd04-b94b-45e8-a9e1-ce348ab96f1e" title="Night Trips" width="700">
 
 </p>
 
