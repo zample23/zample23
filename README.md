@@ -30,6 +30,20 @@
 
 </p>
 
+# [ADVUP](https://zample23.github.io/ADVUP/) 
+
+* ADVUP - it's responsive cross-browser landing page made using React library
+* Slider with advertise cases with corresponding information 
+* Controlled form with validation
+
+<a href="https://zample23.github.io/Night_Trips/" target="_blank">Link on GitHub Pages</a>
+
+<p align="left">
+
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/c026faa7-abe1-4dd3-80fc-ed9871bb8446" title="ADVUP" width="700">
+
+</p>
+
 
 # Contact Info:
 
