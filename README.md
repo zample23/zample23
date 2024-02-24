@@ -7,7 +7,7 @@
 
 <p align="center">
 
-<img src="https://github.com/zample23/simple_todo_app/assets/95700098/a0205b4f-d850-45ad-846b-a6b9c04ec503" title="AX IT">
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/dcb461ce-0edc-4436-8966-a6c242303116" title="AX IT" width="1000">
 
 
 </p>
