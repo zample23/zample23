@@ -11,20 +11,22 @@
 
 <img src="https://github.com/zample23/simple_todo_app/assets/95700098/dcb461ce-0edc-4436-8966-a6c242303116" title="AX IT" width="700">
 
-
 </p>
 
-# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
-<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
+
+# [Night Trips](https://github.com/zample23/AX_IT.git) 
+
+* Night Trips - it's responsive cross-browser landing page made using html/css and javascript
+* Slider with photos for each event, changing background of the main page
+* Interactive user experience elements
+
+<a href="https://zample23.github.io/AX_IT/" target="_blank">Link on GitHub Pages</a>
+
+<p align="left">
+
+<img src="https://github.com/zample23/simple_todo_app/assets/95700098/fb1b7e3a-3df7-4f21-b252-b5554fcf518a" title="Night Trips" width="700">
+
 </p>
-
-* DroneMobile - A native iOS IoT application used to remotely control vehicle
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">
-
-</p>
-
 
 
 # Contact Info:
