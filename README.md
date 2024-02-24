@@ -46,9 +46,10 @@
 
 # [Simple ToDo app](https://zample23.github.io/simple_todo_app/) 
 
-* Simple ToDo app - it's responsive cross-browser landing page made using React library
-* Slider with advertise cases with corresponding information 
-* Controlled form with validation
+* Simple ToDo app - it's responsive cross-browser application made using React library
+* Allows to add new tasks, mark or delete completed ones
+* Saves all tasks, as well as their status, in local storage, which allows you to return to your list after restarting the application or closing it
+* Allows to change a light theme to a dark one and also saves the selected theme in local storage
 
 <a href="https://zample23.github.io/simple_todo_app/" target="_blank">Link on GitHub Pages</a>
 
