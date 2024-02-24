@@ -15,7 +15,7 @@
 </p>
 
 
-# [Night Trips](https://github.com/zample23/AX_IT.git) 
+# [Night Trips](https://zample23.github.io/Night_Trips/) 
 
 * Night Trips - it's responsive cross-browser landing page made using html/css and javascript
 * Slider with photos for each event
@@ -36,7 +36,7 @@
 * Slider with advertise cases with corresponding information 
 * Controlled form with validation
 
-<a href="https://zample23.github.io/Night_Trips/" target="_blank">Link on GitHub Pages</a>
+<a href="https://zample23.github.io/ADVUP/" target="_blank">Link on GitHub Pages</a>
 
 <p align="left">
 
@@ -63,4 +63,4 @@
 # Contact Info:
 
 - Email: egor33parasiuk@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- LinkedIn: [zample23](https://www.linkedin.com/)
