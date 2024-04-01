@@ -3,6 +3,11 @@
 
 # [Online shop](https://zample23.github.io/online-shop/) 
 
+* Online shop - it's responsive cross-browser application made using React library
+* Allows to add certain products to the cart
+* Select the required number of products in the cart or delete it
+* See the final cost of all products
+* Saves selected products, their quantity and price in local storage
 
 <a href="https://zample23.github.io/online-shop/" target="_blank">Link on GitHub Pages</a>
 
